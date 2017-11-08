@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'vue + axios + sass + element-ui',
+  name: 's',
   data () {
     return {
       msg: 'vue + axios + sass + element-ui'
